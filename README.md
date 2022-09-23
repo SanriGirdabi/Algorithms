@@ -17,6 +17,8 @@
 * Merge Sort
 * Radix Sort
 * Shell Sort
+### Linked List
+* Singly Linked List
 ## 2. Ruby
 * Factorial
 * Iteration vs Recursion
