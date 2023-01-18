@@ -1,4 +1,4 @@
-# Algorithms with Python and Ruby
+# Algorithms with Python Ruby and Javascript
 
 - Right now it is in progress and available resources are below.
 ## 1. Python
