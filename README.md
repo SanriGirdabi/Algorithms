@@ -27,3 +27,5 @@
 ### Searching Algorithms
 * Linear Search
 * Binary Search
+## 3. Javascript
+* 100 Coding Challenges(11 out of 100 has been added)
