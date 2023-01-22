@@ -28,4 +28,4 @@
 * Linear Search
 * Binary Search
 ## 3. Javascript
-* 100 Coding Challenges(16 out of 100 has been added)
+* 100 Coding Challenges(16 out of 100 have been added)
