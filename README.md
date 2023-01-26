@@ -1,4 +1,4 @@
-# Algorithms with Python Ruby and Javascript
+# Algorithms with Python Ruby and Typescript
 
 - Right now it is in progress and available resources are below.
 ## 1. Python
@@ -27,5 +27,5 @@
 ### Searching Algorithms
 * Linear Search
 * Binary Search
-## 3. Javascript
-* 100 Coding Challenges(16 out of 100 have been added)
+## 3. Typescript
+* 100 Coding Challenges(19 out of 100 have been added)
