@@ -188,6 +188,8 @@ class LinkedList {
   }
 }
 
+export default LinkedList;
+
 let letters = new LinkedList();
 letters.addLast("A");
 letters.addLast("B");
