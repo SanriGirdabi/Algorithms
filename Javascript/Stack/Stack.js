@@ -18,6 +18,7 @@ class Stack {
   peek() {
     let itemsLength = this.items.length;
     let item = this.items[itemsLength - 1];
+    return item;
   }
 
   pop() {
